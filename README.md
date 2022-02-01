@@ -1,4 +1,4 @@
-# stock-market-forcating-with-Heterogeneous-Data
+# Stock Market Forcating With Heterogeneous Data
 
 The objectives of this project work is to develop
 a RNN (Recurrent Neural Network) based on a LSTM (Long
