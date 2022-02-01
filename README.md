@@ -12,3 +12,16 @@ news headlines extracted from official news papers to analyse the
 public mood. These public mood results are used as an influential
 feature in order to forecast a better outcome then traditional
 transaction stock price prediction
+
+**Team Members**
+|   Enrollment No.  |   Name   | 
+|   --------------  |   ----   | 
+|    IIT2019204  |   Mitta Lekhana Reddy |
+|    IIT2019208  |   Dhanush Vasa | 
+|    IIT2019065  |   Pedada Gopal |
+|    IIB2019030  |   Kandagatla Meghana Santhoshi |
+
+**Instructor**
+```
+Dr. Ranjana Vyas
+```
